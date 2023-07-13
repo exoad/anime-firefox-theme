@@ -8,6 +8,8 @@
 2. Go to a theme's folder (or click on one of the images below
 3. Go to `/dist/` and download the `.xpi` file and click on it to launch in Firefox
 
+Directories to ignore: `.repo`
+
 <hr>
 
 <h3 align="center">Plastic Memories</h3>
