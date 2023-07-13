@@ -1,0 +1,52 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "plamemo-exoad",
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "images/0.png"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "right top"
+      ],
+      "additional_backgrounds_tiling": [
+        "no-repeat"
+      ]
+    },
+    "colors": {
+      "toolbar": "rgba(255, 255, 255, 0)",
+      "toolbar_text": "rgb(240, 89, 114)",
+      "frame": "rgb(0, 175, 188)",
+      "tab_background_text": "rgb(64, 64, 64)",
+      "toolbar_field": "rgba(255, 255, 255, 0.36)",
+      "toolbar_field_text": "rgb(64, 64, 64)",
+      "tab_line": "rgb(240, 89, 114)",
+      "popup": "rgba(0, 175, 188, 0.78)",
+      "popup_text": "rgb(64, 64, 64)",
+      "button_background_active": "rgb(63, 86, 166)",
+      "button_background_hover": "rgba(240, 89, 114, 0.87)",
+      "icons_attention": "rgb(234, 168, 36)",
+      "icons": "rgb(35, 35, 35)",
+      "ntp_background": "rgb(0, 0, 0)",
+      "popup_border": "rgb(22, 147, 155)",
+      "popup_highlight_text": "rgb(64, 64, 64)",
+      "popup_highlight": "rgb(24, 213, 227)",
+      "tab_background_separator": "rgba(21, 44, 164, 0)",
+      "tab_selected": "rgb(240, 89, 114)",
+      "tab_text": "rgb(35, 35, 35)",
+      "toolbar_bottom_separator": "rgba(29, 60, 226, 0)",
+      "toolbar_field_border_focus": "rgba(34, 25, 77, 0)",
+      "toolbar_field_border": "rgba(135, 25, 25, 0)",
+      "toolbar_field_focus": "rgb(0, 175, 188)",
+      "toolbar_field_highlight": "rgb(240, 89, 114)",
+      "toolbar_field_separator": "rgba(142, 152, 206, 0)",
+      "toolbar_field_text_focus": "rgb(64, 64, 64)",
+      "toolbar_top_separator": "rgba(29, 60, 226, 0)",
+      "toolbar_vertical_separator": "rgba(0, 0, 0, 0)",
+      "tab_loading": "rgb(240, 89, 114)"
+    }
+  }
+}
