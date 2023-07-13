@@ -27,9 +27,12 @@ Directories to ignore: `.repo`
     <img src="./.repo/3953784.png"/ >
   </a>
 </div>
-
+<hr>
 <h3 align="center">Konosuba</h3>
 <div align="center">
+
+### [**`Download from Mozilla`**](https://addons.mozilla.org/en-US/firefox/addon/konosuba-exoad/)
+  
 <code>Konosuba is copyright of Studio Deen</code>
 </div>
 <br>
