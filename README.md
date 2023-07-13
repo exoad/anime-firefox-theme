@@ -22,3 +22,14 @@ Directories to ignore: `.repo`
     <img src="./.repo/3953784.png"/ >
   </a>
 </div>
+
+<h3 align="center">Konosuba</h3>
+<div align="center">
+<code>Konosuba is copyright of Studio Deen</code>
+</div>
+<br>
+<div align="center">
+  <a href="https://github.com/exoad/animas-firefox/tree/masta/konosuba_theme">
+    <img src="./.repo/3953790.png" />
+    </a>
+    </div>
