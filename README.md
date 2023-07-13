@@ -14,6 +14,11 @@ Directories to ignore: `.repo`
 
 <h3 align="center">Plastic Memories</h3>
 <div align="center">
+  
+### [**`Download from Mozilla`**](https://addons.mozilla.org/en-US/firefox/addon/plastic-memories-theme/)
+
+</div>
+<div align="center">
 <code>Plastic Memories is copyright of Doga Kobo</code>
 </div>
 <br>
