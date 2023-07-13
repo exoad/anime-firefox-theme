@@ -1,4 +1,4 @@
-# firefox-theme
+# Theme
 <div align="center">
   <img src="3953784.png"/ >
 </div>
