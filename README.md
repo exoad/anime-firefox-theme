@@ -8,10 +8,13 @@
 
 <hr>
 
+<h3 align="center">Plastic Memories</h3>
+<div align="center">
+<code>Plastic Memories is copyright of Doga Kobo</code>
+</div>
+<br>
 <div align="center">
   <a href="https://github.com/exoad/plamemo-firefoxtheme/tree/masta/plamemo_theme">
     <img src="./.repo/3953784.png"/ >
   </a>
 </div>
-
-> Plastic Memories is copyright of Doga Kobo, Inc.
