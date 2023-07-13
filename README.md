@@ -1,5 +1,7 @@
 <h1 align="center">Firefox themes</h1>
 
+> Minimalist anime Firefox themes by exoad
+
 **How to install (from GitHub)**
 
 1. Make sure you have the latest Firefox version installed
