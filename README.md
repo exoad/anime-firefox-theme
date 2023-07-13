@@ -1,6 +1,7 @@
 # Theme
 <div align="center">
-<a href="">
-  <img src="./.repo/3953784.png"/ >
+  <a href="https://github.com/exoad/plamemo-firefoxtheme/tree/masta/plamemo_theme">
+    <img src="./.repo/3953784.png"/ >
+  </a>
 </div>
 > Plastic Memories is copyright of Doga Kobo, Inc.
