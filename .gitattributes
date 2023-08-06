@@ -2,5 +2,3 @@
 *.md linguist-documentation=false
 *.json linguist-detectable=true
 *.json linguist-documentation=false
-*.xpi linguist-detectable=true
-*.xpi linguist-documentation=false
